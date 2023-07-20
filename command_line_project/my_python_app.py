@@ -1,9 +1,7 @@
-#import os
-#import sys
+import global_
+#import numpy as np
+import pandas as pd
 
-#from global_
+print(global_.expenses)
 
-#print(expenses)
-
-print('x')
 
